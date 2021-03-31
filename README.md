@@ -3,7 +3,7 @@
 
 Yummy syntax theme for Atom, Brackets, Sublime Text and Visual Studio Code.
 
-DanielPintilei.github.io/Cake
+https://DanielPintilei.github.io/Cake
 
 ### License
 
